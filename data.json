@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Python学习路线",
+        "web": "https://gitee.com/liyupi/code-roadmap/blob/main/docs/roadmap/Python%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.md",
+        "tags": [
+            "🐈‍⬛Code"
+        ],
+        "brief": "网站介绍，可以写一段话",
+        "state": "正常/"
+            },
+    {
+    "name": "iOS程序设计实战教程",
+    "web": "https://www.appcoda.com.tw/learnswift/",
+    "tags": [
+        "🐈‍⬛Code"
+    ],
+    "brief": "學習Swift程式設計及由零開始打造一支完整且支援雲端資料傳輸的iOS App",
+    "state": "正常"
+        },
+    {
+    "name": "SwiftUI Quick Start",
+    "web": "https://www.bigmountainstudio.com/free-swiftui-book",
+    "tags": [
+        "🐈‍⬛Code"
+    ],
+    "brief": "SwiftUI 教程",
+    "state": "正常"
+        },
+    {
+        "name": "Handbook for writers",
+        "web": "https://saylordotorg.github.io/text_handbook-for-writers",
+        "tags": [
+            "🗂️存档",
+            "📝写作"
+        ],
+        "brief": "写作者手册",
+        "state": "正常"
+        },
+    {
+        "name": "掘火档案",
+        "web": "https://www.digforfire.net/",
+        "tags": [
+            "👁️‍🗨️媒体",
+            "⛹️‍♀️娱乐"
+        ],
+        "brief": "crtics",
+        "state": "正常"
+            },
+    {
+        "name": "Discover Scrnshts",
+        "web": "https://scrnshts.club/",
+        "tags": [
+            "🪄设计"
+        ],
+        "brief": "好的App Store设计",
+        "state": "正常"
+        },
+    {
+        "name": "LaTex2Png",
+        "web": "https://latex2png.com/",
+        "tags": [
+            "📊作图",
+            "🔧工具"
+        ],
+        "brief": "LaTex 文本制作 Png 格式图片",
+        "state": "正常"
+        },
+    {
+        "name": "SemanticsScholar",
+        "web": "https://www.semanticscholar.org/",
+        "tags": [
+            "🤖AI",
+            "📒文献",
+            "🔍搜索"
+        ],
+        "brief": "AI文献搜集",
+        "state": "正常"
+        },
+    {
+        "name": "labuladong的算法小抄",
+        "web": "https://labuladong.gitee.io/algo/",
+        "tags": [
+            "🔹CS",
+            "🐈‍⬛Code"
+        ],
+        "brief": "算法可视化学习",
+        "state": "正常"
+        },
+    {
+        "name": "酷壳",
+        "web": "http://coolshell.org/",
+        "tags": [
+            "🐈‍⬛Code",
+            "🔹CS"
+        ],
+        "brief": "酷壳，coolshell",
+        "state": "正常"
+        }
+    
+]
